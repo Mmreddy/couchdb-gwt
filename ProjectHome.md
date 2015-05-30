@@ -1,0 +1,2 @@
+> Standalone applications with GWT and CouchDB. CouchDB store interface and GWT application deployment as a standalone CouchDB app.
+> > Generate javascript couchdb functions (map/reduce/view/list/show/filter/validate) through GWT java to javascript compiler
